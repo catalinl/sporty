@@ -12,3 +12,6 @@ npm run serve
 - each component with own scss module
 - unit tests
 - better css and UI e.g.: sports icons UX - close modal on click outside/ close on esc press
+
+# AI tools used:
+- askmanu.co to generate the app skeleton and base functionality
